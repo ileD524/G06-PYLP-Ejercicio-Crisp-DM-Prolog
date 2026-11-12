@@ -156,10 +156,9 @@ Se verificaron, entre otros, los siguientes casos:
 | `(200.0, 5000.0, 300.0, 12.0)` | No potable, al no satisfacer ninguna regla |
 
 ## Integrantes
+- Caruk, María
+- Donda, Melisa
+- Pedernera Theisen Nahuel Thomas
+- Pergher, Lucas Maurice
 
-- María Caruk
-- Melisa Donda
-- Nahuel Pedernera Theisen
-- Lucas Thomas
-- Lucas Maurice Pergher
 
